@@ -1,5 +1,5 @@
 body{
-    background:#072348;
+    background:#1D2A56;
 background-image: url('http://i.imgur.com/BiSmXaq.png'), url('http://i.imgur.com/XHuy0NJ.png'), url('http://i.imgur.com/okpRxJU.png');
     font-family: 'Mountains of Christmas', cursive;
     color:#fff;
@@ -15,7 +15,7 @@ background-image: url('http://i.imgur.com/BiSmXaq.png'), url('http://i.imgur.com
 }
 .box{
     width:12vw;
-    height:25vh;
+    height:28vh;
     display:inline-block;
     border:0.5rem solid white;
     background:-webkit-repeating-linear-gradient(-55deg,
